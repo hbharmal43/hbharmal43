@@ -37,7 +37,6 @@ I'm always excited to collaborate on interesting projects or discuss tech-relate
 
 - LinkedIn: [linkedin.com/in/hasnainbharmal](https://www.linkedin.com/in/hasnainbharmal)
 - Twitter: [@hasnain_bharmal](https://twitter.com/hasnain_bharmal)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's code and make the world a better place together!
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbharmal43" alt="hbharmal43" /></a> </p>
