@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm passionate about writing clean, efficient code
 - **Machine Learning:** TensorFlow, Scikit-Learn
 - **DevOps:** CI/CD, AWS, Azure
 
-## 💼 Professional Experience
-
-- **Software Engineer** at XYZ Company (2018 - Present)
-  - Developed and maintained scalable web applications using React and Node.js.
-  - Collaborated with cross-functional teams to design and implement new features.
-  - Improved application performance through code optimizations and refactoring.
 
 ## 🌱 Open Source Contributions
 
