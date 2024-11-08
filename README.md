@@ -1,42 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hasnain Bharmal</h1>
+Here's an updated version without the open-source contributions section, using highlights from your resume:
+
+---
+
+<h1 align="center">Hey there 👋, I'm Hasnain Bharmal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbharmal43&label=Profile%20views&color=0e75b6&style=flat" alt="hbharmal43" /> </p>
 
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
+Welcome to my GitHub! I’m a software engineer passionate about building scalable applications, clean code, and continuous learning. My journey has led me to work on projects that enhance user experience, optimize performance, and leverage modern UI/UX principles to improve engagement. When I’m not coding, I’m exploring new frameworks or sharing tech insights through blog posts.
 
-### Software Engineer | Open Source Enthusiast | Tech Blogger
+## 🚀 Skills and Tech Stack
 
-Welcome to my GitHub profile! I'm passionate about writing clean, efficient code and contributing to meaningful open-source projects. I love exploring new technologies and sharing my knowledge with the developer community through blog posts and tutorials.
+- **Programming Languages:** Python, JavaScript (ES6+), TypeScript, Java, SQL, C
+- **Frontend Development:** HTML5, CSS3, React, Tailwind CSS
+- **Backend Development:** Node.js, Express.js, Flask
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Cloud & DevOps:** AWS, Docker, Heroku, CI/CD, Git, GitHub
+- **Testing and Automation:** Jest, Cypress
+- **Other Tools:** VS Code, Figma, Jupyter Notebook
 
-## 🚀 Skills and Technologies
+## 💡 Projects and Highlights
 
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML5, CSS3, React, Node.js, Express.js
-- **Database:** SQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Testing and Deployment:** Jest, Docker, Heroku
-- **Machine Learning:** TensorFlow, Scikit-Learn
-- **DevOps:** CI/CD, AWS, Azure
+- **UTA.edu Web Development:** Created high-performance, reusable web components for uta.edu, enhancing usability for over 1M monthly visitors and improving user satisfaction by 30%.
+- **Cloud Optimization:** Optimized cloud infrastructure to streamline site architecture and reduce page load times by 15%, contributing to a faster, more consistent experience.
+- **Inventory Management System:** Designed a custom software solution to track and manage 3D printer filament inventory, reducing material waste by 25% and boosting resource availability by 30%.
 
+## ✍️ Latest Blog Posts
 
-## 🌱 Open Source Contributions
+I love sharing insights from my work and experiments. Here are a few of my recent posts:
 
-- **Project A:** Contributed XYZ feature and fixed bugs. [Link to Repository](https://github.com/project-a)
-- **Project B:** Implemented ABC functionality and wrote unit tests. [Link to Repository](https://github.com/project-b)
+- [Optimizing Cloud Infrastructure: A Practical Guide](https://yourblog.com/cloud-infrastructure)
+- [Building RESTful APIs with Express and Node.js](https://yourblog.com/express-api)
+- [10 Essential Tips for Cleaner JavaScript Code](https://yourblog.com/js-tips)
 
-## 📝 Latest Blog Posts
+## 🤝 Let’s Connect!
 
-- [How to Build a RESTful API with Node.js and Express](https://yourblog.com/post1)
-- [Introduction to Machine Learning with TensorFlow](https://yourblog.com/post2)
-- [10 Useful JavaScript Tips and Tricks](https://yourblog.com/post3)
+I’m always open to connecting with other developers, brainstorming ideas, or exploring new tech. Feel free to reach out!
 
-## 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/hasnainbharmal](https://www.linkedin.com/in/hasnainbharmal)
+- **Twitter:** [@hasnain_bharmal](https://twitter.com/hasnain_bharmal)
+- **Dev.to:** [@hasnain_bharmal](https://dev.to/hasnain_bharmal)
 
-I'm always excited to collaborate on interesting projects or discuss tech-related topics. You can reach me through the following channels:
-
-- LinkedIn: [linkedin.com/in/hasnainbharmal](https://www.linkedin.com/in/hasnainbharmal)
-- Twitter: [@hasnain_bharmal](https://twitter.com/hasnain_bharmal)
-
-Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's code and make the world a better place together!
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbharmal43" alt="hbharmal43" /></a> </p>
 
+Feel free to explore my repositories, and let’s build something awesome together!
