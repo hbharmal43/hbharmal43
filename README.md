@@ -26,14 +26,6 @@ Welcome to my GitHub! I’m a software engineer passionate about building scalab
 - **Cloud Optimization:** Optimized cloud infrastructure to streamline site architecture and reduce page load times by 15%, contributing to a faster, more consistent experience.
 - **Inventory Management System:** Designed a custom software solution to track and manage 3D printer filament inventory, reducing material waste by 25% and boosting resource availability by 30%.
 
-## ✍️ Latest Blog Posts
-
-I love sharing insights from my work and experiments. Here are a few of my recent posts:
-
-- [Optimizing Cloud Infrastructure: A Practical Guide](https://yourblog.com/cloud-infrastructure)
-- [Building RESTful APIs with Express and Node.js](https://yourblog.com/express-api)
-- [10 Essential Tips for Cleaner JavaScript Code](https://yourblog.com/js-tips)
-
 ## 🤝 Let’s Connect!
 
 I’m always open to connecting with other developers, brainstorming ideas, or exploring new tech. Feel free to reach out!
