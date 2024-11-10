@@ -1,7 +1,3 @@
-Here's an updated version without the open-source contributions section, using highlights from your resume:
-
----
-
 <h1 align="center">Hey there 👋, I'm Hasnain Bharmal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbharmal43&label=Profile%20views&color=0e75b6&style=flat" alt="hbharmal43" /> </p>
