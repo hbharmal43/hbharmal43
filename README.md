@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m a software engineer passionate about building scalab
 I’m always open to connecting with other developers, brainstorming ideas, or exploring new tech. Feel free to reach out!
 
 - **LinkedIn:** [linkedin.com/in/hasnainbharmal](https://www.linkedin.com/in/hasnainbharmal)
-- **Twitter:** [@hasnain_bharmal](https://twitter.com/hasnain_bharmal)
+- **X:** [@BharmalHasnain](https://x.com/BharmalHasnain)
 - **Dev.to:** [@hasnain_bharmal](https://dev.to/hasnain_bharmal)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbharmal43" alt="hbharmal43" /></a> </p>
