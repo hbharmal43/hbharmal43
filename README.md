@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a software engineer passionate about building scalab
 
 I’m always open to connecting with other developers, brainstorming ideas, or exploring new tech. Feel free to reach out!
 
-- **LinkedIn:** [linkedin.com/in/hasnainbharmal](https://www.linkedin.com/in/hasnainbharmal)
+- **LinkedIn:** [linkedin.com/in/hasnainbharmal4](https://www.linkedin.com/in/hasnainbharmal4)
 - **X:** [@BharmalHasnain](https://x.com/BharmalHasnain)
 - **Dev.to:** [@hasnain_bharmal](https://dev.to/hasnain_bharmal)
 
