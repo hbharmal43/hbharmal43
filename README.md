@@ -75,11 +75,7 @@ I’m always open to connecting with engineers, founders, recruiters, and builde
 
 ---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hbharmal43" alt="hbharmal43" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbharmal43" alt="hbharmal43" /></a> </p>
 
 <p align="center">
   Feel free to explore my repositories, and let’s build something awesome together!
